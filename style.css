@@ -1,0 +1,13 @@
+#Info {
+    font-family:sans-serif;
+}
+.menu {
+    list-style:none;
+}
+.links {
+    float:right;
+    padding-right:20px;
+}
+#Home {
+    background:linear-gradient(#f50000 100%, #ffd000 0%)
+}
